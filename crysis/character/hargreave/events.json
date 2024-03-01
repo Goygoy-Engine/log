@@ -1,10 +1,11 @@
 {
-  "Başlık1": {
-    "Olay1": "... olayında bunlar yaşandı.",
-    "Olay2": "... yaşanmaya devam etti."
+  "Oyunlardan Önce": {
+    "Tunguska Operasyonu": "1919'da Karl Rasch, Walter Gould gibi bilim insanlarının olduğu bir ekiple 1908'de gerçekleşen Tunguska Olayı'nı incelemek için Tunguska'ya gitti. Kaza alanında insandışı akıllı yaşama ait kanıtlar buldu. Operasyon sırasında Hargreave, Rasch ve Gould dışındaki tüm bilim insanları hayatlarını kaybetti. Rasch ve Gould, Hargreave'in yardımları sayesinde kurtuldu. Operasyon sonrasında elde ettikleri bilgiler ve kalıntılar ile Hargreave-Rasch Biyokimyasal'ı kurdular. Hargreave-Rasch Biyokimyasal, elde ettikleri kalıntıları inceleyip bu kalıntılar yardımıyla yeni teknolojiler ve cihazlar üretti. Ayrıca gezegenin her yerine teleskop sistemleri kurarak kalıntıların kaynağını bulmak için çalışmalara başladılar. İlerleyen zamanlarda Hargreave-Rasch Biyokimyasal'ın faaliyetlerini gizlemek adında bir paravan şirket olarak CryNet Sistemleri kuruldu.",
+    "2016": "Jacob Hargreave öncülüğünde nanogiysi programı başladı."
   },
-  "Başlık2": {
-    "Olay1": "lorem ipsum",
-    "Olay2": "Lorem ipsum"
+  "Genel Bakış": {
+    "2020": "Hargreave, Lingshan Adası'na nanogiysili askerlerden oluşan bir ekip gönderdi. Adada, daha önce Tunguska'da bulduklarına benzeyen kalıntılar vardı. Hargreave'in amacı, kalıntılar ile nanogiysinin etkileşime girip girmeyeceğini öğrenmekti.",
+    "Seflerin Uyanışı": "2020'de Seflerin Dünya'ya saldırısının başlamasının ardından elde ettiği verilerle Nanogiysi 2.0'ı geliştirdi. Önceki sürüme kıyasla mükemmelize edilmişti. Mükemmmel bir taktiksel savaş makinesini, Lingshan Operasyonu'nun öncü ekibi olan Raptor Ekibi'nin lideri Laurnes 'Prophet' Barnes'a verdi. Prophet zamanında CIA'de çalışırken görevden atılıp hapse düştüğünde, Hargreave'in yardımları sayesinde kurtulmuştu. Bu yüzden Prophet'ı bir kukla gibi kullanabileceğini umuyordu.",
+    "New York Saldırısı": "Seflerin 23 Ağustos'ta başlayan New York saldırısının 3. gününde hayatını kaybetti."
   }
 }
