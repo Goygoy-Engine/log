@@ -1,8 +1,0 @@
-{
-  "mainLang": "tr",
-  "type": "game",
-  "spoiler": "True",
-  "background": "crysis.png",
-  "backgroundcolor": "#131313",
-  "customCSS": ".body"
-}
