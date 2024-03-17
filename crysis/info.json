@@ -4,5 +4,7 @@
   "spoiler": "True",
   "background": "crysis.png",
   "backgroundcolor": "#131313",
-  "customCSS": ".body"
+  "customCSS": ".body",
+  "metaDescription": "Crysis Wiki, Goygoy Engine Log",
+  "metaKeywords": "crysis, wiki, goygoy engine, goygoy log"
 }
