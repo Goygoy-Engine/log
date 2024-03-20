@@ -1,11 +1,11 @@
 {
-  "menuHome": "Ana Sayfa",
-  "menuCharacters": "Karakterler",
-  "menuFactions": "Organizasyonlar",
-  "menuEvents": "Olaylar",
-  "menuFranchiseItems": "Oyunlar",
+  "home": "Ana Sayfa",
+  "characters": "Karakterler",
+  "factions": "Organizasyonlar",
+  "events": "Olaylar",
+  "franchiseItems": "Oyunlar",
   "timelines": "Zaman Akışı",
-  "menuOther1": "Diğer",
-  "menuOther2": "Diğer",
-  "menuOther3":false
+  "other": "Diğer",
+  "other2": "DiğerTest",
+  "other3":false
 }
